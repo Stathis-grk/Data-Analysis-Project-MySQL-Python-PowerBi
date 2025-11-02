@@ -31,9 +31,10 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 4) Missing values in critical fields
 5) Typos (e.g., "expence" instead of "expense")
 
+
 # 2) Data Cleaning with Python 
 
-## step 1: Import the Database into Python 
+## Step 1: Import the Database into Python 
 <img width="682" height="498" alt="image" src="https://github.com/user-attachments/assets/601297dc-8517-4e71-8f72-34f298a7ffa5" />
 
 
@@ -43,3 +44,29 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 
 
 <img width="368" height="76" alt="image" src="https://github.com/user-attachments/assets/1c527ea1-b186-4aef-8d30-6677819f63f8" />
+
+
+
+
+
+## Step 2: Data cleaning 
+### Check our Data 
+<img width="1085" height="757" alt="image" src="https://github.com/user-attachments/assets/1c9bbdff-db80-48a4-833e-dd82c3f05c75" />
+
+
+
+
+
+
+
+
+
+
+
+### Remove Duplicates 
+<img width="295" height="67" alt="image" src="https://github.com/user-attachments/assets/c4886a8a-450c-4dc8-846d-9babd702a59c" />
+
+
+
+### Fix our columns (first and last names) using strip 
+<img width="516" height="82" alt="image" src="https://github.com/user-attachments/assets/73e4275f-2dda-44d7-bd6c-dc531636e3e2" />
