@@ -32,7 +32,7 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 5) Typos (e.g., "expence" instead of "expense")
 
 
-# 2) Data Cleaning with Python 
+# 2) Data Cleaning and Regression (Python) 
 
 ## Step 1: Import the Database into Python 
 <img width="683" height="452" alt="image" src="https://github.com/user-attachments/assets/e67b1da7-a4d5-465d-b0f0-c3d6ce08df2e" />
@@ -139,7 +139,7 @@ Classification Model
 ### 4) Accuracy: 0.5
 
 
-# 3) 📈 Power BI Dashboard
+# 3) 📈 Dashboard (Power Bi)
 <img width="1304" height="732" alt="Στιγμιότυπο οθόνης 2025-11-02 184810" src="https://github.com/user-attachments/assets/ceb446b4-0d8e-4539-9dbb-2111931f9787" />
 
 
