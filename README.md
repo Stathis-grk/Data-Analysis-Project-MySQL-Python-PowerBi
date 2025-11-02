@@ -121,3 +121,56 @@ Classification Model
 
 
 <img width="899" height="586" alt="Στιγμιότυπο οθόνης 2025-11-02 202120" src="https://github.com/user-attachments/assets/35cedf05-5971-4baf-bc03-681e68f67671" />
+
+
+
+# 3) 📈 Power BI Dashboard
+<img width="1304" height="732" alt="Στιγμιότυπο οθόνης 2025-11-02 184810" src="https://github.com/user-attachments/assets/ceb446b4-0d8e-4539-9dbb-2111931f9787" />
+
+
+
+
+
+
+
+## Key Metrics
+
+1) Total Amount: €5,020
+2) Year: 2024
+3) Standard Deviation: €397
+4) Total Customers: 9
+
+
+## Visualizations
+
+Amount by Quarter - Bar chart showing transaction trends
+Category Distribution - Pie chart breakdown
+Customer Details - Interactive table with filters
+Transaction Type Filter - Income vs Expense analysis
+
+
+## 📊 Key Insights
+
+### Transaction Distribution
+
+Bonuses account for nearly half of all transactions (44.58%)
+
+Utilities represent a third of transactions (33.33%)
+
+Rent payments are the smallest category (22.08%)
+
+
+### Quarterly Trends
+
+Q1 and Q2 show highest transaction volumes
+
+Q3 has significantly lower activity
+
+Q4 shows moderate recovery
+
+
+### Currency Usage
+
+EUR is the dominant currency (7 out of 9 customers)
+
+USD is used by 2 customers
