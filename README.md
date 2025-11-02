@@ -50,9 +50,6 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 
 
 ## Step 2: Data cleaning 
-### Check our Data 
-<img width="1085" height="648" alt="image" src="https://github.com/user-attachments/assets/234a9c57-c5ec-4afb-b56b-ca03db96fb12" />
-
 
 
 
