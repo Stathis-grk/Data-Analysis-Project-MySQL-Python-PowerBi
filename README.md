@@ -127,12 +127,13 @@ Classification Model
 
 
 ## Predictions
-Next 2 categorys - utilities
+Next 2 categories - utilities
 
 Probability of this prediction - 78% (utilities)
 
 Probability of another prediction: 
 bonus - 3%
+
 rent - 14%
 
 
