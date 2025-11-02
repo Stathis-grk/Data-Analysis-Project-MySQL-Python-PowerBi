@@ -124,6 +124,19 @@ Classification Model
 
 
 
+
+
+## Predictions
+Next 2 categorys - utilities
+
+Probability of this prediction - 78% (utilities)
+
+Probability of another prediction: 
+bonus - 3%
+rent - 14%
+
+
+
 # 3) 📈 Power BI Dashboard
 <img width="1304" height="732" alt="Στιγμιότυπο οθόνης 2025-11-02 184810" src="https://github.com/user-attachments/assets/ceb446b4-0d8e-4539-9dbb-2111931f9787" />
 
@@ -137,7 +150,7 @@ Classification Model
 
 1) Total Amount: €5,020
 2) Year: 2024
-3) Standard Deviation: €397
+3) Standard Deviation: 397
 4) Total Customers: 9
 
 
