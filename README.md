@@ -64,14 +64,30 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 
 
 
-### Remove Duplicates 
+### Remove Duplicates.
 <img width="295" height="67" alt="image" src="https://github.com/user-attachments/assets/c4886a8a-450c-4dc8-846d-9babd702a59c" />
 
 
 
 
 
-
-
-### Fix our columns (first and last names) using strip 
+### Fix our columns (first and last names) using strip. 
 <img width="516" height="82" alt="image" src="https://github.com/user-attachments/assets/73e4275f-2dda-44d7-bd6c-dc531636e3e2" />
+
+
+
+### Fix the transaction_type and category columns using "replace".
+<img width="732" height="85" alt="image" src="https://github.com/user-attachments/assets/86be2fd5-71ed-47bc-b377-e2813d537ab4" />
+
+
+
+### Fill in the blancks/Null values.
+<img width="640" height="131" alt="image" src="https://github.com/user-attachments/assets/7861d70e-8aed-486b-bd4d-2120cc4ee60d" />
+
+
+
+
+
+### Drop down the rows without any currency
+<img width="416" height="108" alt="image" src="https://github.com/user-attachments/assets/e43348a2-45fa-4328-80e5-5ed354db3e05" />
+
