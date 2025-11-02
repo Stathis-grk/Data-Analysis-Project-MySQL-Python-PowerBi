@@ -136,6 +136,7 @@ Classification Model
 
 #### rent - 14%
 
+### 3) Accuracy: 0.5
 
 
 # 3) 📈 Power BI Dashboard
