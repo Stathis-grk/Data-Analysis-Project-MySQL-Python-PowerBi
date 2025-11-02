@@ -35,7 +35,7 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 # 2) Data Cleaning with Python 
 
 ## Step 1: Import the Database into Python 
-<img width="682" height="498" alt="image" src="https://github.com/user-attachments/assets/601297dc-8517-4e71-8f72-34f298a7ffa5" />
+<img width="683" height="452" alt="image" src="https://github.com/user-attachments/assets/e67b1da7-a4d5-465d-b0f0-c3d6ce08df2e" />
 
 
 
