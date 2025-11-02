@@ -91,3 +91,36 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 ### Drop down the rows without any currency
 <img width="416" height="108" alt="image" src="https://github.com/user-attachments/assets/e43348a2-45fa-4328-80e5-5ed354db3e05" />
 
+### 🧾 Raw Dataset (Before Cleaning)
+<img width="1056" height="583" alt="image" src="https://github.com/user-attachments/assets/3af695f8-e437-4b71-a5b5-8bd5e6e9f251" />
+
+
+
+
+
+
+### ✅ Dataset after Cleaning 
+<img width="1032" height="395" alt="image" src="https://github.com/user-attachments/assets/a7743a6b-71e0-47a2-91cc-0576823bd44d" />
+
+
+
+
+
+
+
+
+
+## Step 3: Regression (Machine Learning) 
+Classification Model
+
+1) Algorithm: Random Forest Classifier
+2) Target Variable: Category (bonus, rent, utilities)
+3) Features: Amount, transaction_type, currency
+4) Train/Test Split: 80/20
+
+
+<img width="598" height="87" alt="Στιγμιότυπο οθόνης 2025-11-02 202100" src="https://github.com/user-attachments/assets/bf5920a4-7ed2-45b2-8303-9c0c4c808253" />
+
+
+
+<img width="899" height="586" alt="Στιγμιότυπο οθόνης 2025-11-02 202120" src="https://github.com/user-attachments/assets/35cedf05-5971-4baf-bc03-681e68f67671" />
