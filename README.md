@@ -51,7 +51,8 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 
 ## Step 2: Data cleaning 
 ### Check our Data 
-<img width="1085" height="757" alt="image" src="https://github.com/user-attachments/assets/1c9bbdff-db80-48a4-833e-dd82c3f05c75" />
+<img width="1085" height="648" alt="image" src="https://github.com/user-attachments/assets/234a9c57-c5ec-4afb-b56b-ca03db96fb12" />
+
 
 
 
@@ -65,6 +66,10 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 
 ### Remove Duplicates 
 <img width="295" height="67" alt="image" src="https://github.com/user-attachments/assets/c4886a8a-450c-4dc8-846d-9babd702a59c" />
+
+
+
+
 
 
 
