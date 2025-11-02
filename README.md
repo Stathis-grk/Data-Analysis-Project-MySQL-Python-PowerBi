@@ -36,3 +36,10 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 ## step 1: Import the Database into Python 
 <img width="682" height="498" alt="image" src="https://github.com/user-attachments/assets/601297dc-8517-4e71-8f72-34f298a7ffa5" />
 
+
+
+
+
+
+
+<img width="368" height="76" alt="image" src="https://github.com/user-attachments/assets/1c527ea1-b186-4aef-8d30-6677819f63f8" />
