@@ -8,7 +8,7 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 4) Build predictive models with scikit-learn
 5) Visualize insights using Power BI dashboards
 
-# 1) Create the Dataset (MySQL) 
+# 1) Create Database (MySQL) 
 <img width="435" height="389" alt="Στιγμιότυπο οθόνης 2025-11-02 194017" src="https://github.com/user-attachments/assets/b1e74fe7-d2ef-41ac-9254-33499c862bd6" />
 
 
@@ -96,7 +96,7 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 
 
 
-### ✅ Dataset after Cleaning 
+### 📋 Dataset after Cleaning 
 <img width="1032" height="395" alt="image" src="https://github.com/user-attachments/assets/a7743a6b-71e0-47a2-91cc-0576823bd44d" />
 
 
