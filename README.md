@@ -144,8 +144,11 @@ Classification Model
 ## Visualizations
 
 Amount by Quarter - Bar chart showing transaction trends
+
 Category Distribution - Pie chart breakdown
+
 Customer Details - Interactive table with filters
+
 Transaction Type Filter - Income vs Expense analysis
 
 
@@ -174,3 +177,26 @@ Q4 shows moderate recovery
 EUR is the dominant currency (7 out of 9 customers)
 
 USD is used by 2 customers
+
+
+# 🛠️ Technologies Used
+## Database
+
+MySQL 8.0 - Relational database management
+
+## Data Processing & Analysis
+
+Python 3.11
+
+pandas - Data manipulation and cleaning
+
+numpy - Numerical computations
+
+scikit-learn - Machine learning models
+
+matplotlib - Data visualization
+
+
+## Business Intelligence
+
+Power BI Desktop - Interactive dashboards
