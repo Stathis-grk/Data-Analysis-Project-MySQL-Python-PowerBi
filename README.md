@@ -35,7 +35,8 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 # 2) Data Cleaning and Regression (Python) 
 
 ## Step 1: Import the Database into Python 
-<img width="683" height="452" alt="image" src="https://github.com/user-attachments/assets/e67b1da7-a4d5-465d-b0f0-c3d6ce08df2e" />
+<img width="732" height="507" alt="image" src="https://github.com/user-attachments/assets/6d6b5987-f169-44ba-8455-b06e7bbbb569" />
+
 
 
 
