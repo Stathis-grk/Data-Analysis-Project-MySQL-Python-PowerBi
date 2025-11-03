@@ -9,7 +9,7 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 5) Visualize insights using Power BI dashboards
 
 # 1) Create Database (MySQL) 
-<img width="732" height="507" alt="image" src="https://github.com/user-attachments/assets/4bf13a1a-32e1-4a08-a6b3-decd85a3083f" />
+<img width="732" height="507" alt="image" src="https://github.com/user-attachments/assets/6c0d6f2f-2849-48ca-8432-b1dd0c515c3e" />
 
 
 
