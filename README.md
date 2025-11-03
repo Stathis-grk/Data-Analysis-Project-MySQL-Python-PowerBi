@@ -90,6 +90,13 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 ### ✅ Drop down the rows without any currency
 <img width="416" height="108" alt="image" src="https://github.com/user-attachments/assets/e43348a2-45fa-4328-80e5-5ed354db3e05" />
 
+
+
+### ✅ Spelling correction
+<img width="727" height="62" alt="image" src="https://github.com/user-attachments/assets/07975fce-e177-4a34-8b4f-e9f3a5345dc0" />
+
+
+
 ### 🧾 Raw Dataset (Before Cleaning)
 <img width="1056" height="583" alt="image" src="https://github.com/user-attachments/assets/3af695f8-e437-4b71-a5b5-8bd5e6e9f251" />
 
@@ -99,7 +106,8 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 
 
 ### 📋 Dataset after Cleaning 
-<img width="1032" height="395" alt="image" src="https://github.com/user-attachments/assets/a7743a6b-71e0-47a2-91cc-0576823bd44d" />
+<img width="1032" height="385" alt="image" src="https://github.com/user-attachments/assets/fec7806a-8def-44ea-bd57-dc5380175395" />
+
 
 
 
