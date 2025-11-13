@@ -117,7 +117,7 @@ A comprehensive end-to-end data analysis project that demonstrates the complete 
 
 
 
-## Step 3: Regression (Machine Learning) 
+## Step 3: Random Forest (Machine Learning) 
 Classification Model
 
 1) Algorithm: Random Forest Classifier
